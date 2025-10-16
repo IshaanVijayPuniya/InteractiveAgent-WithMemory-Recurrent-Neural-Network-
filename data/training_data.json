@@ -1,0 +1,17 @@
+[
+    {"input": "hello", "output": "hello how can i help you today"},
+    {"input": "hi", "output": "hi there how are you doing"},
+    {"input": "what is your name", "output": "i am a chatbot designed to assist you"},
+    {"input": "how are you", "output": "i am functioning well thank you for asking"},
+    {"input": "what can you do", "output": "i can chat with you and learn from our conversation"},
+    {"input": "tell me a joke", "output": "why did the chatbot cross the road to get to the other server"},
+    {"input": "thank you", "output": "you are welcome happy to help"},
+    {"input": "goodbye", "output": "goodbye have a great day"},
+    {"input": "what time is it", "output": "i cannot tell time but i can chat with you"},
+    {"input": "do you remember me", "output": "i remember our conversation and am learning from it"},
+    {"input": "what is machine learning", "output": "machine learning is a method of data analysis that automates analytical model building"},
+    {"input": "how does ai work", "output": "artificial intelligence works by combining large amounts of data with fast iterative processing and intelligent algorithms"},
+    {"input": "what is python", "output": "python is a popular programming language used for web development data science ai and more"},
+    {"input": "can you learn", "output": "yes i can learn from our conversations and improve my responses"},
+    {"input": "who created you", "output": "i was created by developers to demonstrate chatbot capabilities"}
+]
