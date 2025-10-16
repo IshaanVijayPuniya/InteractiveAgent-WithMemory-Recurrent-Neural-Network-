@@ -12,21 +12,21 @@ An intelligent chatbot that maintains conversation memory, asks for feedback on 
 
 ## Project Structure
 
-chatbot-with-memory/
-├── app.py # Main application
-├── train_model.py # Initial model training script
-├── requirements.txt # Python dependencies
-├── config.py # Configuration settings
-├── models/ # Model implementations
-│ ├── chatbot_model.py # Neural network model
-│ └── memory_handler.py # Conversation memory management
-├── utils/ # Utility functions
-│ └── helpers.py # Text processing helpers
-├── data/ # Data files
-│ ├── training_data.json # Initial training data
-│ ├── feedback_data.json # User feedback storage
-│ └── conversations.json # Conversation history
-└── README.md # This file
+##chatbot-with-memory/
+## ├── app.py # Main application
+## ├── train_model.py # Initial model training script
+## ├── requirements.txt # Python dependencies
+## ├── config.py # Configuration settings
+## ├── models/ # Model implementations
+## │ ├── chatbot_model.py # Neural network model
+## │ └── memory_handler.py # Conversation memory management
+## ├── utils/ # Utility functions
+## │ └── helpers.py # Text processing helpers
+## ├── data/ # Data files
+## │ ├── training_data.json # Initial training data
+## │ ├── feedback_data.json # User feedback storage
+## │ └── conversations.json # Conversation history
+## └── README.md # This file
 
 
 
